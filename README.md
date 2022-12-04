@@ -40,6 +40,9 @@
 <span>
   <img src="https://img.shields.io/badge/NodeJS-82c12f?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </span>
+  <span>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</span>
 <span>
   <img src="https://img.shields.io/badge/Git-f94032?style=flat-square&logo=Git&logoColor=white"/>
 </span>

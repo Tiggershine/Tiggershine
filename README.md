@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/48058931/205504741-c87d1f57-a612-4c39-af49-2c5081d5b6ae.png" width="200" height="200">
 
-### Hi, my name is **Hyun**.
+### Hey, my name is **Hyun**.
 - From **south-Korea**  🇰🇷
 - **Computer science Student** at RWTH in Germany 🇩🇪
 - Interested in **Frontend development** (UI, UX, Design etc.)

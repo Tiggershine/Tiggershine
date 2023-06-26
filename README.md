@@ -7,7 +7,7 @@
 <br>
 
 
-## My tech stack
+## My Tech Stack
 
 <span>
   <img src="https://img.shields.io/badge/HTML-00A0FF?style=flat-square&logo=HTML5&logoColor=white"/>

@@ -2,8 +2,8 @@
 
 ### Hey, my name is **Hyun**.
 - From **south-Korea**  🇰🇷
-- **Computer science Student** at RWTH in Germany 🇩🇪
-- Interested in **Frontend development** (UI, UX, Design etc.)
+- Studied **Computer science Student** at RWTH in Germany 🇩🇪
+- Currently working as a **Full-stack Developer**
 <br>
 
 
